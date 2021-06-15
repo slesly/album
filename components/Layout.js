@@ -1,4 +1,4 @@
-import Header from '@/components/Layout/Header'
+import Header from './Layout/Header'
 import Footer from './Layout/Footer'
 import CartMenu from "./CartMenu";
 import { useState } from 'react';
