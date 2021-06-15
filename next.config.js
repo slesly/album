@@ -6,7 +6,5 @@ module.exports = {
   },
   images: {
     domains: ['fakestoreapi.com'],
-  },
-  assetPrefix: '/album/',
-  basePath: '/album',
+  }
 }
