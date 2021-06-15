@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Shooping cart and checkout small app.
+
+## Technologies
+- React.js
+- Next.js
+- Bootstrap@5.0.1
+- bootstrap-icons
+- firebase - DB (CRUD) Cart, Products and Orders
+- React-Redux - State Management
+- Formik & YUP - Form & Validation
+
+
+[Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
